@@ -1,8 +1,4 @@
-Certainly! Below is a template for a README file for your GitHub side project:
-
----
-
-# Football League Match Data Analyzer
+# Soccer League Predictor
 
 ## Overview
 This project is a football league match data analyzer that utilizes the Beautiful Soup and Pandas libraries to extract and organize football league match data and statistics. The aim of the project is to showcase adept skills in data extraction and organization, as well as predictive modeling using machine learning techniques.
